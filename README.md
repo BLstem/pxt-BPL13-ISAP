@@ -15,10 +15,13 @@ Read more at https://makecode.microbit.org/packages/build-your-own
 
 ## License
 
-
+MIT
 
 ## Supported targets
 
 * for PXT/microbit
 (The metadata above is needed for package search.)
 
+```package
+github:BLstem/pxt-bpl13-isap
+```
