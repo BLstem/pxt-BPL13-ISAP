@@ -4,7 +4,10 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "IoT": "github:BLstem/pxt-IoT",
+        "pH": "github:DoraLC/pxt-pH-sensor",
+        "water_temp": "github:DoraLC/pxt-ds18b20"
     },
     "files": [
         "README.md",
@@ -13,6 +16,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": false
 }
