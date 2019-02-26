@@ -1,13 +1,13 @@
 {
     "name": "pxt-bpl13-isap",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "IoT": "github:BLstem/pxt-IoT",
         "pH": "github:DoraLC/pxt-pH-sensor",
-        "water_temp": "github:DoraLC/pxt-ds18b20"
+        "waterTemp": "github:DoraLC/pxt-ds18b20"
     },
     "files": [
         "README.md",

@@ -1,1 +1,1 @@
-// nothing here
+basic.pause(10)
